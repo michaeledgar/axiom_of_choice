@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "axiom_of_choice"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Adds Set#pick and Set#pop}
+    gem.description = %Q{Adds selection of arbitrary elements to Ruby's Set classes.}
     gem.email = "michael.j.edgar@dartmouth.edu"
     gem.homepage = "http://github.com/michaeledgar/axiom_of_choice"
     gem.authors = ["Michael Edgar"]
